@@ -1,16 +1,17 @@
-## Hi there 👋
+### Boa vindas ao meu perfiu 🚙
 
-<!--
-**jefersonlico/jefersonlico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Jeferosn
 
-Here are some ideas to get you started:
+- Estou Estudando no sit do [luis](https://.luis.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [moto](https://www.honda.com.br)
+- 
+- Estou me desenvolvendo na linguagem JaveScript
+-Utilizo esse espaço para minha organiação e compartilhamento dos meus projetos desenvoviso
+
+### Você encontrar em contato comigo 📫
+
+jeferson.rocha.santos@escola.pr.gov.br
+
+
+![](https://media.tenor.com/o7LO99ykfccAAAAi/anime-naruto.gif)
