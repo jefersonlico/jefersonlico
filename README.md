@@ -2,7 +2,7 @@
 
 Meu nome e Jeferosn
 
-- Estou Estudando no sit do [luis](https://.luis.com.br)
+- Estou Estudando no site do [luis](https://.luis.com.br)
 
 - [moto](https://www.honda.com.br)
  
